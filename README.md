@@ -1,3 +1,3 @@
-- 👋🏼 Hi, I’m <strong><em>@Johnny-hardcodeti</em></strong>
-- 👍🏼 I like Html, CSS and Lua
-- 📨 To reach me mail: <em>johnnymfbr@gmail.com</em>
+- Hello, I'm Johnny, but you can call me dance2
+- I usually code stuff in lua, react and html/css
+- If you ever need to reach out to me, you can email: johnnymfbr@gmail.com
