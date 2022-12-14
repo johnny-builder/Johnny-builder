@@ -1,4 +1,3 @@
 - Hello, I'm Johnny, but you can call me dance2
-- I usually code stuff in lua, react, python, html/css and _barely_ node.js
-- If you ever need to reach out to me, you can email: johnnymfbr@gmail.com
+- I usually code stuff in lua, react, python, html/css and node.js
 - Most of my GitHub content is private, so it usually won't show up, unless I want to share some of my content with everyone.
